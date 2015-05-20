@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 ***블로그 정상 작동 확인용 테스트 파일 입니다...***
 ![kut logo](https://lh3.googleusercontent.com/-az5i7yCeVsc/VVwRNfCN1fI/AAAAAAAAACE/xH_EtsihQDo/w200-h200/kut_logo.gif)
+
+
 git clone 주소
 
 _post폴더에 글 작성
