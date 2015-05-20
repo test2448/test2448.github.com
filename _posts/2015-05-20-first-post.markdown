@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "khg blog test!!!"
 date:   2015-05-20 11:53:48
 categories: jekyll update
 ---
