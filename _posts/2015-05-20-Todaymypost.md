@@ -1,4 +1,9 @@
-#Yujin's post
+---
+layout: post
+title: "Yujin's post"
+date: 2015-05-20 12:30:00
+categories: jektll update
+---
 
 *subject
 
