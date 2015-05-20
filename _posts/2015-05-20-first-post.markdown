@@ -4,9 +4,9 @@ title:  "khg blog test!!!"
 date:   2015-05-20 11:53:48
 categories: jekyll update
 ---
-***블로그 정상 작동 확인용 테스트 파일 입니다...***
-![kut logo](https://lh3.googleusercontent.com/-az5i7yCeVsc/VVwRNfCN1fI/AAAAAAAAACE/xH_EtsihQDo/w200-h200/kut_logo.gif)
 
+![kut logo](https://lh3.googleusercontent.com/-az5i7yCeVsc/VVwRNfCN1fI/AAAAAAAAACE/xH_EtsihQDo/w200-h200/kut_logo.gif)
+***블로그 정상 작동 확인용 테스트 파일 입니다...***
 
 git clone 주소
 
