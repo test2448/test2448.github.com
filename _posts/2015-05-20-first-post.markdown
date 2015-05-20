@@ -5,7 +5,7 @@ date:   2015-05-20 11:53:48
 categories: jekyll update
 ---
 ***블로그 정상 작동 확인용 테스트 파일 입니다...***
-![kut logo](kut_logo.gif)
+![kut logo](https://lh3.googleusercontent.com/-BObKsoJt7LA/VVwRNVYboKE/AAAAAAAAACE/gAmW1iHmMTY/s144-c/w200-h200/May202015.jpg)
 git clone 주소
 
 _post폴더에 글 작성
