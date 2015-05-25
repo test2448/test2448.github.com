@@ -13,8 +13,8 @@ categories: jektll update
 -  mypost
 
 2. contents
--  1. KOREATECH
--  2. SHINHWA
+    1. KOREATECH
+    2. SHINHWA
 
 *Today my posts!!!!*
 
@@ -31,9 +31,9 @@ Naver is a portal site. If you want to go click [naver]
 
 *********
 
-```python
-s = "My faovorite musician is SHINWHA";
-print s
+``` python
+    s = "My faovorite musician is SHINWHA";
+    print s
 ```
 
 Here's SHINHWA's logo
