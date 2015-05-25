@@ -31,8 +31,9 @@ Naver is a portal site. If you want to go click [naver]
 
 *********
 
-
-<code>printf("My faovorite musician is SHINWHA");<\code>
+```
+printf("My faovorite musician is SHINWHA");
+```
 
 
 Here's SHINHWA's logo
