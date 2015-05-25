@@ -31,7 +31,7 @@ Naver is a portal site. If you want to go click [naver]
 
 *********
 
-```c
+``` c
 printf("My faovorite musician is SHINWHA");
 ```
 
