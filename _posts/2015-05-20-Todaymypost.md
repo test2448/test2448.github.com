@@ -5,16 +5,16 @@ date: 2015-05-20 12:30:00
 categories: jektll update
 ---
 
-*subject
+- subject
 
-*contents
+- contents
 
 1. subject
 -  mypost
 
 2. contents
--  1. KOREATECH
--  2. SHINHWA
+  1. KOREATECH
+  2. SHINHWA
 
 *Today my posts!!!!*
 
@@ -31,8 +31,9 @@ Naver is a portal site. If you want to go click [naver]
 
 *********
 
-'''C++
-printf("My faovorite musician is SHINWHA");
+'''python
+s = "My faovorite musician is SHINWHA";
+print s
 '''
 
 Here's SHINHWA's logo
