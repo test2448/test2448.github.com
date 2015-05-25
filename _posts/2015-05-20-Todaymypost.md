@@ -10,11 +10,11 @@ categories: jektll update
 *contents
 
 1. subject
-..* mypost
+-  mypost
 
 2. contents
-..1. KOREATECH
-..2. SHINHWA
+-  1. KOREATECH
+-  2. SHINHWA
 
 *Today my posts!!!!*
 
