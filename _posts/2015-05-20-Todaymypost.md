@@ -31,11 +31,11 @@ Naver is a portal site. If you want to go click [naver]
 
 *********
 
-```Python
+```python
 
-    s = "My faovorite musician is SHINWHA";
+s = "My faovorite musician is SHINWHA";
 
-    print s;
+print s;
 
 ```
 
