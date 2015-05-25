@@ -32,8 +32,11 @@ Naver is a portal site. If you want to go click [naver]
 *********
 
 ``` python
+
     s = "My faovorite musician is SHINWHA";
-    print s
+
+    print s;
+
 ```
 
 Here's SHINHWA's logo
