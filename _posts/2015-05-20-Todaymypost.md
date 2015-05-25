@@ -32,7 +32,10 @@ Naver is a portal site. If you want to go click [naver]
 *********
 
 ```
-printf("My faovorite musician is SHINWHA");
+
+printf("Hello world!\n");
+printf("My faovorite musician is SHINWHA!\n");
+
 ```
 
 
