@@ -31,7 +31,8 @@ Naver is a portal site. If you want to go click [naver]
 
 *********
 
-``` c
+```ruby
+require 'redcarpet'
 printf("My faovorite musician is SHINWHA");
 ```
 
