@@ -31,10 +31,9 @@ Naver is a portal site. If you want to go click [naver]
 
 *********
 
-```ruby
-require 'redcarpet'
+
 <code>printf("My faovorite musician is SHINWHA");<\code>
-```
+
 
 Here's SHINHWA's logo
 LOGO![alt text](https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10923276_860070310680671_2218571850500528910_n.jpg?oh=55885d5de2ce4000185650eded356184&oe=55C88C47)
