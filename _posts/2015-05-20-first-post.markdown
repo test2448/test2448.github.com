@@ -38,4 +38,4 @@ picasaweb을 이용한 이미지 삽입
 **김현국**
 
 
-[google](www.google.com)
+[google](http://www.google.com)
