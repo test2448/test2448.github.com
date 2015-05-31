@@ -1,15 +1,20 @@
-#Yujin's post
+---
+layout: post
+title: "Yujin's post"
+date: 2015-05-20 12:30:00
+categories: jektll update
+---
 
-*subject
+- subject
 
-*contents
+- contents
 
 1. subject
-..* mypost
+-  mypost
 
 2. contents
-..1. KOREATECH
-..2. SHINHWA
+   * KOREATECH
+   * SHINHWA
 
 *Today my posts!!!!*
 
@@ -26,15 +31,17 @@ Naver is a portal site. If you want to go click [naver]
 
 *********
 
-'''C++
-printf("My faovorite musician is SHINWHA");
-'''
+```
+printf("Hello world!\n");
+printf("My faovorite musician is SHINWHA!\n");
+```
+
 
 Here's SHINHWA's logo
 LOGO![alt text](https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10923276_860070310680671_2218571850500528910_n.jpg?oh=55885d5de2ce4000185650eded356184&oe=55C88C47)
 
 SHINWHA | BIRTHYEAR
----|---
+:---:|:---:
 E | 79
 M | 79
 D | 79
